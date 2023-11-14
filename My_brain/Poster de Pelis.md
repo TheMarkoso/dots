@@ -1,0 +1,2 @@
+- impawards.com
+- movieposterdb.com

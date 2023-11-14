@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "0056480808b46c71",
+    "type": "split",
+    "children": [
+      {
+        "id": "2598d1580e2de7fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0780fdb1e65909d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c17358ed6011c93",
+    "type": "split",
+    "children": [
+      {
+        "id": "d898a926e85a7088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fa29f35fe1fc6ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72bfc901d26cf82a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45ffd6acaed28edf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ee0ff02ed7e184b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b972b2224f97e0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff3feee2f0accd25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programacion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20c8ae855d637955",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programacion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5bff3cb3d09f752",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98895b064da9047f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programacion.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a0780fdb1e65909d",
+  "lastOpenFiles": [
+    "Poster de Pelis.md",
+    "Matematicas.md",
+    "Musica.md",
+    "Mangas -Anime.md",
+    "Main.md",
+    "Lista de pendientes.md",
+    "Libros.md",
+    "Ingles.md",
+    "Físico.md",
+    "Comic.md",
+    "Blog.md",
+    "Are you hero?.md",
+    "Programacion.md",
+    "Pelis y series por ver.md",
+    "nota 1.md",
+    "carpeta de rueba/nota 2.md",
+    "carpeta de rueba"
+  ]
+}

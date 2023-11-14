@@ -1,0 +1,13 @@
+- Monster 
+- Neon Genesis Evangenlion
+- Horimiya
+- Haikyuu
+- Hajime no ippo
+- Attack on Titan
+- Fire Force 
+- Soul Eater
+- 20th Century Boys
+- Pluto
+- Chainsaw man
+- kingdom
+- 

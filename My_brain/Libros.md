@@ -1,0 +1,6 @@
+- El coronel no tiene quien le escriba (GG Marquez)
+- Cuentos completos de Edgar Allan Poe
+- El lobo estepario - Hermann Hesse
+- Deja de ser tu - Joe Dispenza
+- Leer algo de lovecraft
+- 
